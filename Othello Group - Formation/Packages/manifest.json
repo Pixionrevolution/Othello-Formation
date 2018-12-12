@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.unity.xr.oculus.android": "1.24.0"
+  }
+}
